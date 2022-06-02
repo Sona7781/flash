@@ -8,7 +8,5 @@
 	            <li><a href="/list-todos">Todos</a></li>
 	        </ul>
 	    </div>
-	    <div class="navbar-collapse">
-	        <a href="/logout" >Logout</a>
-	    </div>
+	    
 	</nav>
